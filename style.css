@@ -1,0 +1,71 @@
+.h1 {
+    color:#1877f2;
+    font-size: 75px;
+    font-weight: 1000;
+}
+
+.h2{
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+}
+
+.maindiv{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap-reverse;
+    justify-content: center;
+    width: 100%;
+}
+
+.div1{
+    width: 50%;
+}
+
+.div1.5{
+
+}
+
+.div2{
+    
+}
+
+.button1{
+    appearance: auto;
+    writing-mode: horizontal-tb !important;
+    font-style: ;
+    font-variant-ligatures: ;
+    font-variant-caps: ;
+    font-variant-numeric: ;
+    font-variant-east-asian: 
+}
+
+.div3{
+    border-top: none;
+    color: #1c1e21;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    padding-top: 0;
+}
+
+.link{
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    color: inherit;
+    padding-left: 40px;
+}
+
+.button2{
+    border: none;
+    border-radius: 6px;
+    font-size: 17px;
+    color:  #fff;;
+    line-height: 48px;
+    padding: 0 16px;
+    background-color: #42b72a;
+    border-color: #42b72a;
+}
